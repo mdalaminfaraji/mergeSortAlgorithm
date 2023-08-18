@@ -1,4 +1,9 @@
-List: 1 (2 34), (3 10), 
-List: 2 (3 45), 
-List: 3 (4 57), 
-List: 4 (2 9), 
+Visiting node: 1
+Visiting node: 2
+Visiting node: 3
+Visiting node: 8
+Visiting node: 7
+Visiting node: 4
+Visiting node: 5
+Visiting node: 6
+Visiting node: 9
