@@ -1,1 +1,1 @@
-Number of connected components:5
+1 4 6 8 9 10 15 
