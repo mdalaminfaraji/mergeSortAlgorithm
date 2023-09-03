@@ -1,5 +1,6 @@
-Node1:0
-Node2:2
-Node3:7
-Node4:5
-Node5:9
+1
+2
+3
+4
+5
+3
