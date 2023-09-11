@@ -1,5 +1,10 @@
-YES
-YES
-NO
-YES
-YES
+0 4 8 IN 
+6 0 4 IN 
+2 6 0 IN 
+IN IN IN 0 
+4
+6
+8
+2
+4
+6
